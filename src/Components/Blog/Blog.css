@@ -1,0 +1,6 @@
+.blog{
+    cursor: pointer;
+}
+.blog:hover{
+    background-color: lightgray;
+}

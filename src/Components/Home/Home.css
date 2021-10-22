@@ -1,0 +1,25 @@
+/* .banner{
+    background-image: url("./assets/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 900px;
+    max-width: 1360px; */
+    
+/* } */
+.banner-content{
+    position: relative;
+    left: 35rem;
+    bottom: -23rem;
+    color: gray;
+    line-height: 1.5;
+}
+.banner-content h1{
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+.banner-content small{
+    color: black;
+    font-style: italic;
+    margin-bottom: 15px;
+}

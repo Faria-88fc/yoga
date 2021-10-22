@@ -1,0 +1,14 @@
+.session-img{
+    margin-top: 80px;
+}
+
+
+ 
+.info{
+    background-color: rgb(241, 235, 235);
+}
+.click{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
